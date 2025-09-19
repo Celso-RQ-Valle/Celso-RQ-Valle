@@ -28,7 +28,7 @@ Eu sou o Celso Valle!
 
 🌍 **Idiomas**  
 - 🇧🇷 Português — Nativo  
-- 🇺🇸 Inglês — Proficiência profissional  
+- 🇺🇸 Inglês — Intermediário
 - 🇪🇸 Espanhol — Avançado  
 
 📫 **Como me encontrar**  
