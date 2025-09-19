@@ -1,3 +1,5 @@
+## 🌍 Languages
+[🇧🇷 Português](README_pt.md) | [🇺🇸 English](README.md) | [🇪🇸 Español](README_es.md)
 ## Hi there 👋
 
 I'm Celso Valle!  
@@ -29,4 +31,10 @@ I'm Celso Valle!
 - 🇪🇸 Spanish — Advanced  
 
 📫 **How to reach me**  
-- GitHub: [Celso-RQ-Valle](https://github.com/Celso-RQ-Valle)  
+- GitHub: [Celso-RQ-Valle](https://github.com/Celso-RQ-Valle)
+
+
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Celso-RQ-Valle&hide=contribs,prs&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celso-RQ-Valle&layout=compact&theme=tokyonight"/>
+</div>
