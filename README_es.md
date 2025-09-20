@@ -38,12 +38,6 @@ Soy Celso Valle!
   <a href="https://github.com/Celso-RQ-Valle"><img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/></a>
 </p>
 
-<div align="left">
-  <a href="https://github.com/Celso-RQ-Valle">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Celso-RQ-Valle&hide=contribs,prs&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celso-RQ-Valle&layout=compact&theme=tokyonight"/>
-  </a>
-</div>
 
 <div align="left">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Celso-RQ-Valle&hide=contribs,prs&show_icons=true&theme=tokyonight"/>
