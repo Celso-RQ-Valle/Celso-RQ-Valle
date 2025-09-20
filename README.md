@@ -40,8 +40,8 @@ I'm Celso Valle!
 
 <div align="left">
   <a href="https://github.com/Celso-RQ-Valle">
-  <img height="148em" src="https://github-readme-stats.vercel.app/api?username=Celso-RQ-Valle&hide=contribs,prs&show_icons=true&theme=tokyonight"/>
-  <img height="148em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celso-RQ-Valle&layout=compact&theme=tokyonight"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Celso-RQ-Valle&hide=contribs,prs&show_icons=true&theme=tokyonight"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celso-RQ-Valle&layout=compact&theme=tokyonight"/>
   </a>
 </div>
 
