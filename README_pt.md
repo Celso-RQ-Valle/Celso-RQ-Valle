@@ -31,12 +31,19 @@ Eu sou o Celso Valle!
 - 🇺🇸 Inglês — Intermediário
 - 🇪🇸 Espanhol — Avançado  
 
-📫 **Como me encontrar**  
-- GitHub: [Celso-RQ-Valle](https://github.com/Celso-RQ-Valle)  
+📫 **Como me encontrar**   
+
+<p align="left">
+  <a href="https://www.instagram.com/celso.r.valle/"><img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/celso-rq-valle/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/></a>
+  <a href="https://github.com/Celso-RQ-Valle"><img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/></a>
+</p>
 
 <div align="left">
+  <a href="https://github.com/Celso-RQ-Valle">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Celso-RQ-Valle&hide=contribs,prs&show_icons=true&theme=tokyonight"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celso-RQ-Valle&layout=compact&theme=tokyonight"/>
+  </a>
 </div>
 
 <picture align="center">
