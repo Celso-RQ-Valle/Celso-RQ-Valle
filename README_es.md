@@ -7,7 +7,7 @@ Soy Celso Valle!
 
 🎯 **Sobre mí**  
 - Científico de Datos en **Bradesco**, trabajando con **modelos de riesgo crediticio**.  
-- Licenciado en **Física** por el **IFUSP (Universidad de São Paulo)**.  
+- Grado en **Física** por el **IFUSP (Universidad de São Paulo)**.  
 - Gran interés en el **mercado de valores** y en el análisis financiero.  
 
 💻 **Experiencia y Habilidades**  
